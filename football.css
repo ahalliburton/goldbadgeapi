@@ -1,0 +1,39 @@
+#wrapper {
+    margin: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-size-adjust: unset;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    font-size: x-large;
+}
+
+body {
+    background-image: url(../API/photo-1517008655149-73e6fa31504f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    color: white;
+ }
+
+.row {
+display: flex;
+}
+
+.column {
+    flex: 50%; 
+    text-align: center;
+}
+
+.iframe {
+    text-align: center
+}
+
+.movie {
+    display: flex;
+    justify-content: center;
+}
